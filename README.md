@@ -42,12 +42,12 @@ We've also included an optional Gulp file to help you get started with theme cus
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
 -   [Live Preview](http://demos.creative-tim.com/blk-design-system-pro/index.html)
--   [About Us](http://demos.creative-tim.com/blk-design-system/examples/about-us.html)
--   [Product Page](http://demos.creative-tim.com/blk-design-system/examples/product-page.html)
--   [Landing Page](http://demos.creative-tim.com/blk-design-system/examples/landing-page.html)
--   [Ecommerce Page](http://demos.creative-tim.com/blk-design-system/examples/ecommerce.html)
--   [Account Page](http://demos.creative-tim.com/blk-design-system/examples/account-settings.html)
--   [Chat Page](http://demos.creative-tim.com/blk-design-system/examples/chat-page.html)
+-   [About Us](http://demos.creative-tim.com/blk-design-system-pro/examples/about-us.html)
+-   [Product Page](http://demos.creative-tim.com/blk-design-system-pro/examples/product-page.html)
+-   [Landing Page](http://demos.creative-tim.com/blk-design-system-pro/examples/landing-page.html)
+-   [Ecommerce Page](http://demos.creative-tim.com/blk-design-system-pro/examples/ecommerce.html)
+-   [Account Page](http://demos.creative-tim.com/blk-design-system-pro/examples/account-settings.html)
+-   [Chat Page](http://demos.creative-tim.com/blk-design-system-pro/examples/chat-page.html)
 
 
 ## Tutorial
